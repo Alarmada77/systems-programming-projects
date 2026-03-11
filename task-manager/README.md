@@ -1,8 +1,6 @@
-# Task Manager
+# Matam Homework 3
 
-A C++ task management system built on top of a sorted linked list.
+This repository contains all supplied files for the first homework assignment in the course "Introduction to Systems Programming" (234124) at the Technion.
 
-Features:
-- Custom linked list implementation
-- Iterator support
-- Task scheduling and management
+You may find the full instructions for this assignment on the course's website.
+Good luck, and have fun!
